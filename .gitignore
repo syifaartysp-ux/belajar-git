@@ -1,0 +1,9 @@
+# mengencualikan folder clone git/
+clone project git/
+
+#mengecualikan file lebih dari satu file  satu file )
+log.txt
+index.ts
+
+# mengabaikan semua file dengan ektensi .py
+*.py
